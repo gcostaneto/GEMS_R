@@ -2,4 +2,4 @@
 
 > R Codes (coming soon)
 > Presentation (coming soon) 
-> Literature (freely available)[https://github.com/gcostaneto/GEMS_R/tree/main/References]
+> Literature [freely available](https://github.com/gcostaneto/GEMS_R/tree/main/References)
