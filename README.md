@@ -9,10 +9,11 @@ Hands-on training on the EnvRtype package (v 1.0.0, 2021) offered to the GEMS st
 
 > Presentation (coming soon) (1h hour)
 
-> MODULE 1 - Remote Environmental Sensing (1h)
+> MODULE 1 - Remote Environmental Sensing (and its implications) (1h)
 
-> MODULE 2 - Macro-Environmental Characterization (1h)
+> MODULE 2 - Macro-Environmental Characterization (and its possible uses) (1h)
 
-> MODULE 3 - Enviromic Similarity and Phenotype Prediction (1h)
+> MODULE 3 - Enviromic Similarity and Phenotype Prediction (under genomic prediction context) (1h)
+
 
 > Literature [freely available](https://github.com/gcostaneto/GEMS_R/tree/main/References)
