@@ -7,7 +7,7 @@ Hands-on training on the EnvRtype package (v 1.0.0, 2021) offered to the GEMS st
 
 > [Overview](https://github.com/gcostaneto/EnvRtype_course/blob/main/README.md)
 
-> Presentation (coming soon) (1h hou
+> Presentation (coming soon) 
 
 > MODULE 1 - Remote Environmental Sensing (and its implications)
 
