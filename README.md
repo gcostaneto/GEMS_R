@@ -13,7 +13,7 @@ Hands-on training on the EnvRtype package (v 1.0.0, 2021) offered to the GEMS st
 
 > MODULE 2 - Macro-Environmental Characterization (and its possible uses) 
 
-> MODULE 3 - Enviromic Similarity and Phenotype Prediction (under genomic prediction context) 
+> MODULE 3 - Enviromic-aided Phenotype Prediction (under genomic prediction context) 
 
 
 > Literature [freely available](https://github.com/gcostaneto/GEMS_R/tree/main/References)
