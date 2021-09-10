@@ -5,6 +5,8 @@
 
 Hands-on training on the EnvRtype package (v 1.0.0, 2021) offered to the GEMS study group, Universidade Federal de Sergipe - UFS, Brazil. If you have any questions, please contact germano.cneto@gmail.com. Questions, suggestions and criticism are always welcome!
 
+> [Getting help](https://groups.google.com/u/1/g/envrtype)
+
 > [Overview](https://github.com/gcostaneto/EnvRtype_course/blob/main/README.md)
 
 > [Presentation](https://github.com/gcostaneto/EnvRtype_course/blob/main/EnvRtype_lecture.pdf) 
